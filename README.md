@@ -1,4 +1,4 @@
-##23-51706-2
+## 23-51706-2
 Why XP is the Best Fit for This Project
 
 We chose XP for the Delivery Management System for several reasons:
