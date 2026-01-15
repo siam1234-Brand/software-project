@@ -15,3 +15,4 @@
 | Employee | Assign shipment orders to carriers only after payment is confirmed | I can accept customer shipment and assign a carrier | Need carrier id, payment id, shipment id |
 | Employee | Remove shipment | I can remove shipment details from the database | Need delete button |
 | Employee | Update employee information | I can update all information of the employee | Need update button |
+# Implemented Features
