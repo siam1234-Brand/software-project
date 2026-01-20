@@ -37,3 +37,18 @@
 | Employee | Update employee information | I can update all information of the employee | Need update button |
 # Implemented Features
 >>>>>>> 586b8aa2297a47685a1ab5bbfdc44eb3472a9f69
+
+### 2.1.4 Carriers
+- **Login to Dashboard:** Carriers can log in to access their assigned shipments and manage deliveries.
+- **View Assigned Shipments:** Carriers can view all shipments assigned to them for delivery.
+- **Update Shipment Tracking Status:** Carriers can update the shipment status to inform customers of progress.
+- **Update Shipments as Delivered:** Carriers update shipments as delivered once they are completed.
+- **Update Profile Information:** Carriers can edit their personal and contact details.
+- **View Route Information:** Carriers can access route details, including the origin and destination of shipments.
+
+### 2.1.5 Sellers
+- **Create Shipment Order:** Sellers can create new shipment orders with product details and delivery information.
+- **Auto-Assign RouteID:** System automatically assigns or creates a route ID for the shipment based on available routes.
+- **View Shipment Orders Created:** Sellers can view and track all the shipments they have created.
+- **See Delivery Estimate:** System calculates an estimated delivery date based on payment status.
+- **Manage Profile:** Sellers can view, update, or delete their own profile and account information.
