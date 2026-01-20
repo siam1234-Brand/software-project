@@ -37,3 +37,44 @@
 | Employee | Update employee information | I can update all information of the employee | Need update button |
 # Implemented Features
 >>>>>>> 586b8aa2297a47685a1ab5bbfdc44eb3472a9f69
+
+# Project Proposal
+
+## Background to the Problem
+Nowadays, many businesses depend on fast and reliable delivery management services. In a Delivery management system, there are some roles like seller, customer, admin, carrier and employee etc. Sellers need an easy way to send products to customers, customers want to track their shipments, employees must verify the payments and assign carriers to individual shipments, carriers need to update delivery status. When they do the tasks manually, a lot of mistakes can happen - such as wrong tracking updates by the carriers, loss of shipment information, or mismatch in assigning carriers, loss of documentation of the shipments.
+
+To solve these problems, the Delivery Management System software was created. It takes all the parts of the delivery process into one Desktop-based application so every user can do their own work easily. The employee can add, update and delete any shipment, carrier and routes, update and check his information and also check payment status. The sellers can create shipments easily, create new account and also delete account. The carriers can see their appointed shipment, can update tracking information and customers can see the delivery status. Admin is the main role of this project - he can Update, Delete, Create simultaneously all the roles and he can also affect the shipment by changing information if found any wrong.
+
+After getting all information in a database and providing each user with a different dashboard, the system prevents errors, saves time, and keeps data organized. This makes delivery faster, clearer, and more reliable for the users.
+
+## Target Users
+
+### 1. Admin
+- Can create: Employees, Carriers, Routes, Update Payment, Tracking
+- Can view all records
+- Able to delete: Employees, Carriers & Shipments
+
+### 2. Employees
+- Can add carriers to shipments
+- Can check payment status
+- Can view all shipments
+- Can update payment
+- Can update own profile
+- Can delete shipment from the system
+
+### 3. Carrier
+- Can view Assigned Shipments
+- Can update Tracking Status
+- Can update own Info
+
+### 4. Seller
+- Seller is a client who can create shipment
+- Can delete Shipments
+- Can view tracking status
+- Can make payment
+- Can delete his account
+
+### 5. Customer
+- Can view shipments which are assigned from seller to him
+- Can update profile
+- Can delete account
