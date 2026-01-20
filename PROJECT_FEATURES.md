@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 | Customer | Log in securely | To view shipment details | Providing password & clientID |
 | Customer | Track | Only shipment tied to clientID | Providing clientID |
 | Customer | Verify shipment using name and email | To be member | Providing contact no., password, DOB, gender |
@@ -17,7 +16,6 @@
 | Seller | View all shipment orders I created | I can track and manage my shipments | System shows only shipments linked to my ClientID with details (goods, weight, status, delivery time). Access to others' shipments is blocked |
 | Seller | See delivery estimate automatically | I know when the shipment should arrive | When payment changes from Pending → Paid/Unpaid, system sets EstimatedDeliveryTime = Today + 3 days |
 | Seller | Manage my own profile | I can keep my information updated | Seller can view/update own profile only; can delete own account without affecting others |
-=======
 
 ## User Stories & Acceptance Criteria
 
