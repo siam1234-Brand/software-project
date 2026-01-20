@@ -78,3 +78,31 @@ After getting all information in a database and providing each user with a diffe
 - Can view shipments which are assigned from seller to him
 - Can update profile
 - Can delete account
+
+## Scopes and Features
+
+### 2.1.1 Admin
+- **Create Admin Profile:** Admin can create new profile to enroll themselves in the system.
+- **Login to Dashboard:** Admin securely logs in using email and password to access the dashboard.
+- **View Shipments, Payments, Employees, Carriers, Routes:** Admin can view all records of shipments, payments, employees, carriers, and routes.
+- **Add and Delete Employees, Carriers, Shipments, Routes:** Admin can manage users and system data by adding, updating, or deleting records.
+- **Access Tracking Information:** Admin can check the tracking status of any shipment.
+- **Update Shipment, Payment, Tracking, Route Data:** Admin can modify shipment, payment, or route details.
+- **Delete Records:** Admin can remove incorrect records from the system.
+
+### 2.1.2 Employee
+- **Login to Dashboard:** Employees can log in using their user email and password to access the system.
+- **Verify Shipment Payment Status:** Employees can check whether a shipment is paid or unpaid.
+- **Assign Shipments to Carriers:** Employees can assign shipments to carriers after confirming the payment.
+- **Update Shipment Information:** Employees can update shipment details, such as status or delivery updates.
+- **Remove Shipments:** Employees can remove canceled shipments from the system.
+- **Update Employee Data:** Employees can update their personal information.
+- **Add/Delete Carriers:** Employees can add new carriers or delete carriers.
+- **Add Routes:** Employees can define new shipment routes with destination addresses.
+- **Update Shipment Tracking Status:** Employees can update tracking status for shipments in transit.
+
+### 2.1.3 Customers
+- **Login to System:** Customers can log in using their client ID and password.
+- **Sign Up/Register:** New customers can register by filling in their details to create an account.
+- **Create Account/Login:** Customers can create new account or log in to the system with their information.
+- **View Shipment Details:** Customers can see detailed information about their shipments, including status and delivery times.
