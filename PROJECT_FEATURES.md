@@ -39,3 +39,48 @@ This task involves creating a login form component with email and password field
 | Seller | See delivery estimate automatically | I know when the shipment should arrive | When payment changes from Pending → Paid/Unpaid, system sets EstimatedDeliveryTime = Today + 3 days |
 | Seller | Manage my own profile | I can keep my information updated | Seller can view/update own profile only; can delete own account without affecting others |
 EOF
+1.2	Selection of Process Model
+In our Delivery Management System, we picked Extreme Programming (XP) as a development model. The XP model works well for our projects where requirements can change and where we can get feedback from customers and use common sense principles to develop our project easily. It helps us to stay flexible and focused on delivering quality at each step of the process.
+
+XP is a software development method which built around the idea of doing simple to understand practices, getting feedback from customers, and improving the system over time. XP encourages continuous communication between the development team and the customer to make sure the software always fulfills the customer's needs.
+
+Exploration: In This phase we can gather requirements from the customer and our development team gets knowledge about the tools and technologies that we will use. This phase can take two weeks of our project time.
+Planning: At first, we can write the user stories (features) and estimate the effort of the working of the user stories for the implementation we can give priorities of the user stories and the releasing schedule will create. 
+Iterations to Release: Before the first release of our system several iterations will include, and it takes two weeks for implementation. In the first iteration the architecture of the hole system will be created. Customers can select the stories in each iteration. When all the iteration is completed, our project will be ready for production.
+Productionizing: When the system is ready for release, we can do extra testing and performance checks. We can also review any last-minute changes that might need to be included in our project.
+Maintenance: After the first release, we can keep our system running and produce some new iteration simultaneously. We can also have some developers to maintain our project.
+Death: After the satisfaction of the customer needs this phase occurred and we can write our necessary documents of the system. 
+XP Process Flow
+Here’s a simple diagram to show the XP process:
+
+
+
+
+
+Exploration
+↓
+Planning
+↓
+Iterations to Release
+↓
+Productionizing
+↓
+Maintenance
+↓
+Death
+
+Why XP is the Best Fit for This Project
+We chose XP for the Delivery Management System for several reasons:
+Pair programming:
+In the Pair programming it allows two people to program at a time, one person is brainstorming, another is involved with writing code. By this we can used to write code efficiently for a long time.
+Frequent Requirement Changes:
+Our system consists of different user roles- admin, employee, carrier, client, and their needs will likely change as we develop. XP works well here because it’s built to adapt quickly to changing requirements through its short development cycles.
+Metaphor: In metaphor there is a shared story which is a summary of the overall project describes how the system will work for development. By this our project team will get a clear understanding of what the project needs. 
+40-hour week: Developer can maximum 40-hour work in a week. So that the developers’ working productivity will increase.
+Reduced Risk:
+XP reduces the risk of major issues later in the process because we get constant feedback and release small, incremental updates regularly. If something isn’t working, we can address it immediately rather than discovering it later in the project.
+On-site customer: 
+We can understand the requirements perfectly and the problems because a customer must present full time and available for our team.
+
+XP will work perfectly in our Delivery Management System Because XP values like communication, simplicity, feedback, courage, respect which will enhance our project progress. Besides it’s Practices will also help us to develop the project smoothly.
+
